@@ -11,3 +11,5 @@ git checkout -b BRANCH_NAME: create and move to a new branch off of main
 git branch:	shows the branches in your project (* indicates current branch)
 
 git push origin BRANCH_NAME: push changes onto a new branch on GitHub
+
+git revert COMMIT_HASH_#: revert to the state of specified commit
