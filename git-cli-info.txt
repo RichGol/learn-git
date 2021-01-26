@@ -13,3 +13,7 @@ git branch:	shows the branches in your project (* indicates current branch)
 git push origin BRANCH_NAME: push changes onto a new branch on GitHub
 
 git revert COMMIT_HASH_#: revert to the state of specified commit
+
+git pull origin master: update local git repo with GitHub repo (from master branch)
+
+git checkout master: switch to the master branch
